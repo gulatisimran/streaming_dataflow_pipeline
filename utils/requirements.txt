@@ -1,0 +1,3 @@
+google-api-python-client==1.12.8
+apache-beam[gcp]==2.31.0
+google-apitools==0.5.31
